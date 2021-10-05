@@ -1,0 +1,15 @@
+{
+    "name": "liuhaijun/phpgrace",
+    "autoload": {
+        "psr-4": {
+            "grace\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "hcoder",
+            "email": "5213606@qq.com"
+        }
+    ],
+    "require": {}
+}
