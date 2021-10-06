@@ -1,5 +1,5 @@
 {
-    "name": "liuhaijun/phpgrace",
+    "name": "grace/phpgrace",
     "autoload": {
         "psr-4": {
             "grace\\": "src"
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "hcoder",
-            "email": "5213606@qq.com"
+            "name": "grace hai",
+            "email": "grace@phpgrace.com"
         }
     ],
     "require": {}
