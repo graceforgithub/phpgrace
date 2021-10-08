@@ -1,5 +1,6 @@
 {
     "name": "graceframe/phpgrace",
+    "type": "project",
     "autoload": {
         "psr-4": {
             "grace\\": "graceFrame"
