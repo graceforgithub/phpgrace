@@ -1,5 +1,5 @@
 {
-    "name": "phpgrace/phpgrace",
+    "name": "phpgrace3/phpgrace",
     "autoload": {
         "psr-4": {
             "grace\\": "phpGrace"
