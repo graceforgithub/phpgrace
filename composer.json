@@ -1,14 +1,14 @@
 {
-    "name": "phpgrace3/phpgrace",
+    "name": "grace_frame/php_grace",
     "autoload": {
         "psr-4": {
-            "grace\\": "phpGrace"
+            "grace\\": "graceFrame"
         }
     },
     "authors": [
         {
-            "name": "grace hai",
-            "email": "grace@phpgrace.com"
+            "name": "grace",
+            "email": "grace@mail.com"
         }
     ],
     "require": {}
