@@ -2,7 +2,7 @@
     "name": "grace/phpgrace",
     "autoload": {
         "psr-4": {
-            "grace\\": "src"
+            "grace\\": "phpGrace"
         }
     },
     "authors": [

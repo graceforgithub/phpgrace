@@ -1,3 +1,4 @@
 <?php
+namespace grace;
 require '../../vendor/autoload.php';
-grace\phpGrace::run();
+phpGrace::run();
